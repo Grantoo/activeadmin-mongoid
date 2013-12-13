@@ -20,4 +20,5 @@ Gem::Specification.new do |gem|
   gem.add_runtime_dependency 'activeadmin', '~> 1.0.0.pre'
   gem.add_runtime_dependency 'meta_search', '>= 1.1.0.pre'
   gem.add_runtime_dependency 'sass-rails',  ['~> 3.1', '>= 3.1.4']
+  gem.add_runtime_dependency 'activesupport', '~> 4.0.2'
 end
